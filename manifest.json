@@ -1,0 +1,38 @@
+{
+  "name": "AneIqbal",
+  "short_name": "AneIqbal",
+  "start_url": "https://aneiqbal.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#39538f",
+  "description": "Blog tutorial dan informasi untuk Anda. Mampir kemari buat dapetin tutorial-tutorial keren, materi-materi bagus, dan info-info menarik. Masa iya nggak mampir?",
+  "icons": [{
+    "src": "https://yt3.ggpht.com/-zd4Vi_szWRE/AAAAAAAAAAI/AAAAAAAAAAA/BXZzbaI7Ajg/s108-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://yt3.ggpht.com/-zd4Vi_szWRE/AAAAAAAAAAI/AAAAAAAAAAA/BXZzbaI7Ajg/s108-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://yt3.ggpht.com/-zd4Vi_szWRE/AAAAAAAAAAI/AAAAAAAAAAA/BXZzbaI7Ajg/s108-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://yt3.ggpht.com/-zd4Vi_szWRE/AAAAAAAAAAI/AAAAAAAAAAA/BXZzbaI7Ajg/s108-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://yt3.ggpht.com/-zd4Vi_szWRE/AAAAAAAAAAI/AAAAAAAAAAA/BXZzbaI7Ajg/s108-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://yt3.ggpht.com/-zd4Vi_szWRE/AAAAAAAAAAI/AAAAAAAAAAA/BXZzbaI7Ajg/s108-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://yt3.ggpht.com/-zd4Vi_szWRE/AAAAAAAAAAI/AAAAAAAAAAA/BXZzbaI7Ajg/s108-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
